@@ -4,3 +4,16 @@ The objective of this project is to analyze retail sales data using Power BI to 
 
 ## Dataset Used
 - <a href="https://github.com/amanhari1808-arch/Retail-Sales-Performance-Dashboard/blob/main/Retail%20Sales%20Dataset.xlsx">Dataset</a>
+
+Questions (KPIs)
+•	What is the total sales revenue generated?
+•	What is the total profit earned?
+•	What is the total number of orders placed?
+•	Which product line generates the highest sales?
+•	How does revenue vary by gender?
+•	What are the monthly sales trends?
+•	Which city contributes the most to total revenue?
+•	What is the most commonly used payment method?
+•	How does customer rating relate to sales performance?
+•	Which month recorded the highest sales?
+
